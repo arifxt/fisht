@@ -6,7 +6,7 @@
 # ================================================
 
 # Default (akan diganti setelah user memilih server)
-ROBLOX_URL=""
+ROBLOX_URL="https://www.roblox.com/games/121864768012064/UPD-Fish-It?privateServerLinkCode=8b107e5507c7a14d9817e4a6087dae08"
 
 # === DAFTAR PAKET (Prioritas utama) ===
 APPS="
@@ -149,7 +149,7 @@ open_apps() {
        ;;
   esac
 
-  ROBLOX_URL="https://www.roblox.com/games/121864768012064/UPD-Fish-It?privateServerLinkCode=8b107e5507c7a14d9817e4a6087dae08"
+  ROBLOX_URL="https://www.roblox.com/games/121864768012064/UPD-Fish-It?privateServerLinkCode=8${SERVER_CODE}"
   echo "🔗 Server dipilih:"
   echo "$ROBLOX_URL"
   sleep 1
