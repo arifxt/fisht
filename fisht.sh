@@ -135,8 +135,8 @@ open_apps() {
 
   case "$SVC" in
     1) SERVER_CODE="8b107e5507c7a14d9817e4a6087dae08" ;;
-    2) SERVER_CODE="8b107e5507c7a14d9817e4a6087dae08" ;;
-    3) SERVER_CODE="8b107e5507c7a14d9817e4a6087dae08" ;;
+    2) SERVER_CODE="81b107e5507c7a14d9817e4a6087dae08" ;;
+    3) SERVER_CODE="83b107e5507c7a14d9817e4a6087dae08" ;;
     4)
        echo -n "Masukkan privateServerLinkCode: "
        read SERVER_CODE
