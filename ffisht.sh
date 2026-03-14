@@ -18,11 +18,10 @@ com.nakune.lite5
 
 # === Fallback jika prioritas tidak ada ===
 FALLBACK="
-com.delta.zinnc1
-com.delta.zinnc2
-com.delta.zinnc3
-com.delta.zinnc4
-com.delta.zinnc5
+com.asepv2.mobt
+com.asepv2.mobu
+com.asepv2.mobv
+com.asepv2.mobw
 "
 
 # === Paket lainnya (reconnect, dll) ===
