@@ -10,10 +10,10 @@ ROBLOX_URL="https://www.roblox.com/games/121864768012064/UPD-Fish-It?privateServ
 
 # === DAFTAR PAKET (Prioritas utama) ===
 APPS="
-com.nakune.lite2
-com.nakune.lite3
-com.nakune.lite4
-com.nakune.lite5
+com.asepv2.mobt
+com.asepv2.mobu
+com.asepv2.mobv
+com.asepv2.mobw
 "
 
 # === Fallback jika prioritas tidak ada ===
